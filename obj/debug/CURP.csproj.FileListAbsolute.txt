@@ -1,0 +1,485 @@
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2008\Projects\CURP\CURP\obj\Debug\CURP.CURP.resources
+F:\CURP\CURP\obj\Debug\CURP.exe
+F:\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\ObtenrCURP\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Documents\Visual Studio 2008\Projects\Modulo Cliente Individual\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando Curp dentro de Individual\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\Cliente Individual + Gonzo + hernai\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\conserva HighFinance Total 1 #Implementando XML, CURP, CONTACTO PERSONAS dentro de Individual - copia\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\Individual Conserva\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\Individual Conserva -FINALIZADO\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\CLIENTES INDIVIDUAL Y GRUPOS\Final\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Gonzalo\Desktop\HBMFS COCDEP FINALLY\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Gonzalo\Desktop\HighFinance V1.0.0.0\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.1.0.0.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\LO ULTIMO DEL HF\HBMFS COCDEP FINALLY V.2.8.3.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS COCDEP\HBMFS COCDEP FINALLY V 1.0.2.0\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.11.0]\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA\HBMFS Curp[2.8.14.0]\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.15.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HBMFS CONSERVA [2.8.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.33.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.58.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [2.8.59.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.0.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\HighBits\HighFinance\Conserva\Cliente\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\HighBits\HighFinance\HighBits\Cliente\Version Conserva\HBMFS CONSERVA [3.0.23.0]\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\CURP.exe
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.exe
+E:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\CURP.exe
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.exe
+F:\Development\HB\Software\Proyectos Finatur\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Merida\Cloud Storage\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\HighBits Héctor Mérida\FINATUR\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\HighFinance HIGHBITS\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\OCREPENSA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\FINSURESTE\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\CREDIPLATA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.dll
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Desktop\HF HighBits\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\CURP.exe
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\CURP.pdb
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\bin\Debug\CURP.exe
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\bin\Debug\CURP.pdb
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Vico\Documents\8_semestre\HightBits\_CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Hernai\Documents\_CURP\obj\Debug\CURP.exe
+C:\Users\Hernai\Documents\_CURP\obj\Debug\CURP.pdb
+C:\Users\Hernai\Documents\_CURP\bin\Debug\CURP.exe
+C:\Users\Hernai\Documents\_CURP\bin\Debug\CURP.pdb
+C:\Users\Hernai\Documents\_CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Hernai\Documents\_CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Hernai\Documents\_CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Hernai\Documents\_CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hernai\Documents\_CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Hernai\Documents\_CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Hernai\Documents\_CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Hernai\Documents\_CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Hernai\Documents\_CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Desktop\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Desktop\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Desktop\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Desktop\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Desktop\CURP\bin\Debug\BSDMNDataContract.dll
+C:\Users\Héctor\Desktop\CURP\bin\Debug\BSDMNContract.dll
+C:\Users\Héctor\Desktop\CURP\bin\Debug\HF_Controls.pdb
+C:\Users\Héctor\Desktop\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Desktop\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Desktop\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Desktop\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Desktop\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Desktop\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Desktop\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Desktop\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\CRESOLIDO\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\Héctor\Dropbox\HighFinance Conserva\SPLD CONSERVA\Clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\bin\Debug\CURP.exe
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\bin\Debug\CURP.pdb
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\CURP.CURP.resources
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\CURP.exe
+C:\Users\analista prog\Documents\Archivos PLD\clientes\HBMFS Curp\CURP\obj\Debug\CURP.pdb
+C:\curp\obj\Debug\CURP.exe
+C:\curp\obj\Debug\CURP.pdb
+C:\curp\bin\Debug\CURP.exe
+C:\curp\bin\Debug\CURP.pdb
+C:\curp\obj\Debug\CURP.CURP.resources
+C:\curp\obj\Debug\HBMFS.EtiquetaTitulo.resources
+C:\curp\obj\Debug\CURP.Form1.resources
+C:\curp\obj\Debug\CURP.Properties.Resources.resources
+C:\curp\obj\Debug\CURP.csproj.GenerateResource.Cache
+C:\CURP\obj\Debug\ResolveAssemblyReference.cache
+C:\CURP\bin\Debug\HF_Controls.dll
+C:\CURP\bin\Debug\BSDMNDataContract.dll
+C:\CURP\bin\Debug\BSDMNContract.dll
+C:\CURP\bin\Debug\HF_Controls.pdb
